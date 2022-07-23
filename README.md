@@ -41,7 +41,7 @@ And use it inside your components
 ## Attributes
 
 | Prop      | Type | Required | Description |
-|-----------|-----------|--------|----------|---------|
+|-----------|-----------|--------|----------|
 | data      |     Array, Object, Boolean, Number, String   |    yes  |  The variable to store inside the renderless component |
 
 
