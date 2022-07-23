@@ -1,7 +1,7 @@
 {
   "name": "vue-var",
   "version": "1.0.0",
-  "description": "",
+  "description": "A Vue.js project with a renderless component to handle variables inside v-for loop",
   "main": "dist/vue-var.ssr.js",
   "browser": "dist/vue-var.esm.js",
   "module": "dist/vue-var.esm.js",
@@ -44,5 +44,24 @@
   },
   "engines": {
     "node": ">=12"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ajomuch92/vue-var.git"
+  },
+  "keywords": [
+    "vue-var",
+    "variable",
+    "var",
+    "vue.js",
+    "vuejs",
+    "v-for",
+    "loop"
+  ],
+  "author": "Aarón Montes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ajomuch92/vue-var/issues"
+  },
+  "homepage": "https://github.com/ajomuch92/vue-var#readme"
 }
